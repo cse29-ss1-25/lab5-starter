@@ -1,4 +1,4 @@
-# CSE 29 Fall 2024 - Lab 7 Exercises
+# CSE 29 Summer 2025 - Lab 5 Exercises
 
 In this repository, you will find three directories each with an activity for you to complete using `gdb` or `valgrind`. The directories are as follows:
 
